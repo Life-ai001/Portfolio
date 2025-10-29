@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#3B82F6"/>
+  <path d="M 100 350 L 250 200 L 400 300 L 550 150 L 700 250" stroke="white" stroke-width="3" fill="none"/>
+  <circle cx="250" cy="200" r="6" fill="white"/>
+  <circle cx="400" cy="300" r="6" fill="white"/>
+  <circle cx="550" cy="150" r="6" fill="white"/>
+  <rect x="40" y="40" width="720" height="60" rx="8" fill="white" fill-opacity="0.1"/>
+  <text x="400" y="225" font-family="system-ui" font-size="24" fill="white" text-anchor="middle">Analytics View</text>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#4F46E5"/>
+  <rect x="40" y="40" width="200" height="120" rx="8" fill="white" fill-opacity="0.1"/>
+  <rect x="270" y="40" width="200" height="120" rx="8" fill="white" fill-opacity="0.1"/>
+  <rect x="500" y="40" width="260" height="120" rx="8" fill="white" fill-opacity="0.1"/>
+  <rect x="40" y="190" width="720" height="220" rx="8" fill="white" fill-opacity="0.1"/>
+  <text x="400" y="225" font-family="system-ui" font-size="24" fill="white" text-anchor="middle">Dashboard Overview</text>
+</svg>
